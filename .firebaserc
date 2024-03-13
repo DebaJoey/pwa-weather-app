@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pwa-weather-app-ac4db": {
+      "hosting": {
+        "pwa-weather-app": [
+          "pwa-weather-app-ac4db"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pwa-weather-app-ac4db"
+  }
+}
